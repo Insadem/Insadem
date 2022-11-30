@@ -10,7 +10,7 @@
 - React Native.
 
 #### Stack for roblox:
-- Roact with hooks.
 - Rbxts.
 - Testez.
 - Flamework.
+- Roact with hooks (+- same as React).
