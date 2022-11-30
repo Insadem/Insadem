@@ -1,16 +1,13 @@
-### Hi there 👋
+### 24/7 fullstack developer.
+#### Stack for sites:
+- React.
+- Astro.
+- Tailwind css & Radix UI.
+- TypeScript.
 
-<!--
-**Insadem/Insadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Stack for everything else:
+- C# (currently .NET 6.0).
+- React Native.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Something that I know, but not a fan of.
+- Roblox engine - 1+ year experience.
