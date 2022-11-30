@@ -6,8 +6,11 @@
 - TypeScript.
 
 #### Stack for everything else:
-- C# (currently .NET 6.0).
+- C# (currently .NET 6.0) & XUnit.
 - React Native.
 
-#### Something that I know, but not a fan of.
-- Roblox engine - 1+ year experience.
+#### Stack for roblox:
+- Roact with hooks.
+- Rbxts.
+- Testez.
+- Flamework.
