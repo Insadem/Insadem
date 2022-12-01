@@ -1,6 +1,6 @@
 ### 24/7 fullstack developer.
 #### Stack for sites:
-- React/Preact.
+- React/Preact & Redux.
 - Astro.
 - Tailwind css & Radix UI.
 - TypeScript & Jest.
