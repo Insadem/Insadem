@@ -3,11 +3,11 @@
 - React.
 - Astro.
 - Tailwind css & Radix UI.
-- TypeScript.
+- TypeScript & Jest.
 
 #### Stack for everything else:
 - C# (currently .NET 6.0) & XUnit.
-- React Native.
+- Electron.JS.
 
 #### Stack for roblox:
 - Rbxts.
