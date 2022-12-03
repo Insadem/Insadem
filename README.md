@@ -6,7 +6,7 @@
 - TypeScript & Jest.
 
 #### Stack for everything else:
-- C# (currently .NET 6.0) & XUnit.
+- C# (currently .NET 6.0) & XUnit & Moq4.
 - Electron.JS.
 
 #### Stack for roblox:
