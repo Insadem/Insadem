@@ -6,7 +6,7 @@
 
 #### Stack for everything else:
 - C# (currently .NET 6.0) & XUnit & Moq4.
-- Azure functions.
+- Azure durable functions.
 
 #### Stack for roblox:
 - Rbxts.
