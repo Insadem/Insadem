@@ -1,16 +1,14 @@
-### 24/7 fullstack developer.
-#### Stack for sites:
-- React/Preact & Redux.
-- Astro.
-- Tailwind css & Radix UI.
+### Hey, I just do some interesting projects and that's all.
+
+#### Stack for web-sites:
+- React & Redux.
+- Azure functions.
 - TypeScript & Jest.
 
 #### Stack for everything else:
 - C# (currently .NET 6.0) & XUnit & Moq4.
-- Electron.JS.
 
 #### Stack for roblox:
 - Rbxts.
 - Testez.
-- Flamework.
-- Roact with hooks (+- same as React).
+- Matter.
