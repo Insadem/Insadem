@@ -2,11 +2,11 @@
 
 #### Stack for web-sites:
 - React & Redux.
-- Azure functions.
 - TypeScript & Jest.
 
 #### Stack for everything else:
 - C# (currently .NET 6.0) & XUnit & Moq4.
+- Azure functions.
 
 #### Stack for roblox:
 - Rbxts.
