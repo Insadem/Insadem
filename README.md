@@ -1,11 +1,7 @@
-#### Stack for web-sites:
-- React & Redux.
-- TypeScript & Jest.
-
-#### Stack for everything else:
+#### Usual stack:
+- Golang.
 - C# (currently .NET 6.0) & XUnit & Moq4.
 - Azure durable functions.
-- Golang.
 
 #### Stack for roblox:
 - Rbxts.
