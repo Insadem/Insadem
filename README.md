@@ -1,10 +1,6 @@
-#### Usual stack:
-- Golang.
-- C# (currently .NET 6.0) & XUnit & Moq4.
-- Azure durable functions.
+#### Info
+Have no clue who I am, but I'm trying to make some interesting stuff.
+Currently I do use golang for my projects.
 
-#### Stack for roblox:
-- Rbxts.
-- Testez.
-- Matter.
-- Knit.
+#### Contacts
+Telegram/Discord: insadem.
